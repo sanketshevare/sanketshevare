@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanketshevare
 - 👀 I’m interested in App and Web Development
-- 🌱 I’m currently learning  
-- 💞️ I’m looking to collaborate on ...
+<!-- - 🌱 I’m currently learning  
+- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me sanketshevare7675@gmail.com
 
 <!---
