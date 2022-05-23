@@ -12,16 +12,14 @@ node *child[50];
 class general
 {
 public:
-void insert();
-void display();
+
 
 general()
 {
 root == NULL;
 }
-};
 
-void general::insert()
+void insert()
 {
 int secount;
 root = new node();
@@ -55,7 +53,7 @@ cin>>root->child[i]->child[j]->child[k]->label;
 }
 }
 
-void general::display()
+void display()
 {
 if(root != NULL)
 {
@@ -75,7 +73,7 @@ cout<<"--------------------- "<<root->child[i]->child[j]->child[k]->label<<endl;
 }
 }
 }
-
+};
 int main()
 {
 general g;
