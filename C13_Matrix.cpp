@@ -14,7 +14,7 @@ int main()
     cin >> m;
     
     cout << "\nEDGES :\n";
-    for (k = 1; k <= m; k++)
+    for (k = 0; k < m; k++)
     {
         cin >> i >> j;
         cost[i][j] = 1;
@@ -22,9 +22,9 @@ int main()
     }
     
     cout << "The adjacency matrix of the graph is : " << endl;
-    for (i = 0; i <= n; i++)
+    for (i = 0; i < n; i++)
     {
-        for (j = 0; j <= n; j++)
+        for (j = 0; j < n; j++)
         {
             cout << " " << cost[i][j];
         }
