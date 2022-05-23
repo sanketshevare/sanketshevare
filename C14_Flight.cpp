@@ -16,34 +16,7 @@ void dfs(int s, int n, string arr[])
     }
 }
 
-void bfs(int s, int n, string arr[])
-{
-    bool visited[n];
-    for (int i = 0; i < n; i++)
-        visited[i] = false;
-    int v;
-    queue<int> bfsq;
-    if (!visited[s])
-    {
-        cout << arr[s] << " ";
-        bfsq.push(s);
-        visited[s] = true;
-        while (!bfsq.empty())
-        {
-            v = bfsq.front();
-            for (int i = 0; i < n; i++)
-            {
-                if (adj_mat[v][i] && !visited[i])
-                {
-                    cout << arr[i] << " ";
-                    visited[i] = true;
-                    bfsq.push(i);
-                }
-            }
-            bfsq.pop();
-        }
-    }
-}
+
 
 int main()
 {
@@ -84,8 +57,6 @@ int main()
     cin >> u;
     cout << "DFS: ";
     dfs(u, n, cities);
-    cout << endl;
-    cout << "BFS: ";
-    bfs(u, n, cities);
+ 
     return 0;
 }
