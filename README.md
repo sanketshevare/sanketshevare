@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketshevare&show_icons=true&locale=en" alt="sanketshevare" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketshevare&" alt="sanketshevare" /></p>
+
+<p align="left"> <a href="https://twitter.com/sanket_shevare" target="blank"><img src="https://img.shields.io/twitter/follow/sanket_shevare?logo=twitter&style=for-the-badge" alt="sanket_shevare" /></a> </p>
