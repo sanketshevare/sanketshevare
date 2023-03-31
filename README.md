@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sanketshevare7675@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17eMuIaptIGW-sRA7OvQmbY4uAckGDxKi/view](https://drive.google.com/file/d/17eMuIaptIGW-sRA7OvQmbY4uAckGDxKi/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11XAh_LYgYqZLMT7hRKRzVE4Fo4f7EqGW/view](https://drive.google.com/file/d/17eMuIaptIGW-sRA7OvQmbY4uAckGDxKi/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
