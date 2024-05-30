@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sanketshevare7675@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11XAh_LYgYqZLMT7hRKRzVE4Fo4f7EqGW/view](https://drive.google.com/file/d/11XAh_LYgYqZLMT7hRKRzVE4Fo4f7EqGW/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1U_bRQJKUZpCkPx-TT05MRiir82QX-yhi/view?usp=drive_link)
 - My Portfolio - https://sanketshevare.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
